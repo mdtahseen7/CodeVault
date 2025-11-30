@@ -56,3 +56,5 @@ A high-end "Bento" style application for managing university practicals, built w
 - Prisma v6
 - Monaco Editor
 - jsPDF & html2canvas
+-
+
