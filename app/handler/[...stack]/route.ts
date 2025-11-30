@@ -1,4 +1,4 @@
-import { stackServerApp } from "@/stack";
+import { StackHandler } from "@stackframe/stack";
 
-export const GET = stackServerApp.handler;
-export const POST = stackServerApp.handler;
+export const GET = StackHandler;
+export const POST = StackHandler;
